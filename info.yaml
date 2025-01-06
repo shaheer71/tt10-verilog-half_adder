@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "half_adder"      # Project title
+  title:        "halfadder"      # Project title
   author:       "shaheer shafil"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "perform half adder operation"      # One line description of what your project does
